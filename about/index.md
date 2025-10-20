@@ -1,8 +1,8 @@
 {% include nav.html %}
 
-# About Me
+# About foods around the world  
 
-Write 3–5 sentences about your interests, goals, and what you want to learn this year.
+Is about food from all over the world from aisa to westen cusen.
 
 ## Goals
 - Goal 1
