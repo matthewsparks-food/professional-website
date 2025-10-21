@@ -4,16 +4,17 @@ title: Home
 hero: true
 ---
 
-{% include nav.html %}
+
 
 Taste the World, One Bite at a Time
 Discover authentic dishes, street food gems, and timeless culinary traditions from every corner of the globe.
+From the bustling food stalls of Bangkok to the cozy cafés of Paris, explore what the world is eating today.
 
-- Web team (Internet Technologies)
-- Help desk (Help Desk Operations)
-- Device clinic (Hardware & Software Maintenance)
-- Network & infrastructure (Intro to Networking Concepts)
-- Dev & automation (Computational Thinking)
+- Explore Recipes 
+- Browse by Country 
+- Learn About Ingredients 
+  
+  
 
 Navigate with the links below:
 
