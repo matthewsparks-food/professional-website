@@ -6,7 +6,8 @@ hero: true
 
 {% include nav.html %}
 
-Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showcases real artifacts from our **student‑run IT department**:
+Taste the World, One Bite at a Time
+Discover authentic dishes, street food gems, and timeless culinary traditions from every corner of the globe.
 
 - Web team (Internet Technologies)
 - Help desk (Help Desk Operations)
