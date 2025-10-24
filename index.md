@@ -19,7 +19,7 @@ From the bustling food stalls of Bangkok to the cozy cafés of Paris, explore wh
 Navigate with the links below:
 
 - [About](/about/)
-- [westen curzen](/westen/)
+- [Standards & One‑Pagers](/Standards/)
 - [Projects](/projects/)
 - [Help Desk KB](/kb/)
 - [Device Clinic Logs](/logs/)
