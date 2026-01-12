@@ -18,9 +18,9 @@ From the bustling food stalls of Bangkok to the cozy cafés of Paris, explore wh
 
 Navigate with the links below:
 
-- [About](/about/)
-- [Standards & One‑Pagers](/standards/)
-- [Projects](/projects/)
-- [Help Desk KB](/kb/)
+- [USA](/USA/)
+- [UK](/UK/)
+- [France](/France/)
+- [itly](/itly/)
 - [Device Clinic Logs](/logs/)
 - [Networking](/net/)
