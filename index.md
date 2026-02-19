@@ -22,5 +22,3 @@ Navigate with the links below:
 - [UK](/UK/)
 - [France](/France/)
 - [itly](/itly/)
-- [Device Clinic Logs](/logs/)
-- [Networking](/net/)
