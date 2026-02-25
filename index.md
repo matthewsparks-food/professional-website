@@ -21,4 +21,4 @@ From the bustling food stalls of Bangkok to the cozy cafés of Paris, explore wh
 - [USA](/USA/)
 - [UK](/UK/)
 - [France](/France/)
-- [Italy](/italy/)
+- [Italy](/Italy/)
